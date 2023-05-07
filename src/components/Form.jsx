@@ -37,7 +37,7 @@ const Form = ({ inputText, setInputText, todos, setTodos }) => {
                 >
                     +
                 </button>
-                <div className="xs:text-[10px] tracking-wide border-black md:text-xs pr-1 text-slate-500 select-none">
+                <div className="xs:text-[10px] tracking-wide border-black md:text-xs pr-2 text-slate-500 select-none">
                     <div className="absolute">
                         <div className="invisible lg:visible">
                             *single click - task done
