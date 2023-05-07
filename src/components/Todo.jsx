@@ -23,7 +23,7 @@ const Todo = ({ text, todo, todos, setTodos }) => {
             <div
                 onClick={completeHandler}
                 onDoubleClick={deleteHandler}
-                className="my-2 cursor-pointer focus:outline-none space-x-2 flex border-[1.2px] border-t-blue-900 border-b-blue-900 border-r-blue-900 bg-gradient-to-r from-slate-50 to-orange-100 rounded-r-full"
+                className="my-2 cursor-pointer no_highlights focus:outline-none space-x-2 flex border-[1.2px] border-t-blue-900 border-b-blue-900 border-r-blue-900 bg-gradient-to-r from-slate-50 to-orange-100 rounded-r-full"
             >
                 <div className="">
                     {/* <input type="text" value={text} /> */}
