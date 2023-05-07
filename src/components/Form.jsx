@@ -43,7 +43,7 @@ const Form = ({ inputText, setInputText, todos, setTodos }) => {
                             *single click - task done
                         </div>
                         <div className="invisible lg:visible">
-                            *double click - task done
+                            *double click - task delete
                         </div>
                     </div>
                     <div className="">
