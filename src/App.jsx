@@ -51,7 +51,7 @@ function App() {
                     <TodoList setTodos={setTodos} todos={todos} />
                 </div>
             </div>
-            <div className="h-[5%] bg-slate-800">
+            <div className="h-[5%] bg-[#252525]">
                 <Footer />
             </div>
         </div>

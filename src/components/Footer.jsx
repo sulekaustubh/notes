@@ -7,13 +7,13 @@ const Footer = () => {
             <a className='' href="https://www.linkedin.com/in/kaustubh-sule-b46303229/">
                 <div className='absolute hover:-mt-1 duration-300 left-0 bg-[url("https://raw.githubusercontent.com/sulekaustubh/image-vault/main/linkedinLogo.svg")] mt-0 ml-4 h-6 w-6 bg-cover bg-center'></div>
             </a>
-            <div className="lg:text-xl  lg:-m-[2px]">
+            <div className="lg:text-lg  lg:-m-[2px]">
                 <div>
                     <a
                         className="hover:text-blue-300 duration-200 focus:outline-none"
                         href="https://www.linkedin.com/in/kaustubh-sule-b46303229/"
                     >
-                        © 2023 Kaustubh Sule{' '}
+                        Made by Kaustubh Sule{' '}
                     </a>
                 </div>
             </div>
